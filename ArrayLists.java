@@ -1,12 +1,12 @@
 import java.util.ArrayList;
-import java.util.Collection;
+// import java.util.Collection;
 import java.util.Collections;
 public class ArrayLists {
 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();
-        ArrayList<String> list2 = new ArrayList<String>();
-        ArrayList<Boolean> list3= new ArrayList<Boolean>();
+        // ArrayList<String> list2 = new ArrayList<String>();
+        // ArrayList<Boolean> list3= new ArrayList<Boolean>();
         
         // add element
         list.add(0);
